@@ -1,0 +1,5 @@
+server {
+  listen = "0.0.0.0:8080"
+  public_url = "https://TUO_URL_KOYEB"
+  access_token = "MinecraftVoce2026"
+}
